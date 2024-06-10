@@ -1,0 +1,34 @@
+[
+    {
+      "doggie": "dog1",
+      "expression": "Muggin-Doubt Expression"
+    },
+    {
+      "doggie": "dog2",
+      "expression": "Muggin-Shock Expression"
+    },
+    {
+      "doggie": "dog3",
+      "expression": "Muggin-Fear Expression"
+    },
+    {
+      "doggie": "dog4",
+      "expression": "Muggin-Got Order Expression"
+    },
+    {
+      "doggie": "dog5",
+      "expression": "Muggin-Boring Expression"
+    },
+    {
+      "doggie": "dog6",
+      "expression": "Muggin-Disgust Expression"
+    },
+    {
+      "doggie": "dog7",
+      "expression": "Chihuahua-Funny Expression"
+    },
+    {
+      "doggie": "dog8",
+      "expression": "PitBull-Afraid Expression"
+    }
+  ]
